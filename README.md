@@ -1,4 +1,4 @@
-# -SQL_Music_Store_Analysis_PROJECT
+# SQL_Music_Store_Analysis_PROJECT
 
 This SQL project involves analyzing a music store's database to derive insights about sales, customers, and products. The analysis will include querying the database to answer specific business questions and generate meaningful reports.
 
